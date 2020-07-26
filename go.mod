@@ -1,0 +1,1 @@
+module "github.com/snjssk/gcp-go"
